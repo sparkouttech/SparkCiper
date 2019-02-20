@@ -13,5 +13,6 @@
             "SparkCiper\\": "src/"
         }
     },
+    "minimum-stability": "stable",
     "require": {}
 }
