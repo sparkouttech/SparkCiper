@@ -1,0 +1,17 @@
+{
+    "name": "spark/ciper",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "siva bharathy",
+            "email": "siva@sparkouttech.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SparkCiper\\": "src/"
+        }
+    },
+    "require": {}
+}
